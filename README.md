@@ -1,0 +1,3 @@
+<img alt="Coding" width="400%" src="https://drive.google.com/uc?export=view&id=1pEiNejq8iZ7UdBJakGXtbrVqEVMDR8le">
+
+ Expense-Tracker is a personal daily expense tracker where users can track their expenses and incomes. Any user can create a new income or expense, view the previous transactions and delete any previous transaction. The users can also view the transaction data for past 30 days separately. Also, the users can visualize their expenses with the help of a graph.
